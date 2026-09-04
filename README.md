@@ -3,6 +3,13 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boss-defender/FineTune/blob/main/SmartFineTuner.ipynb)
 
+
+**🎯 Check Github Repo here:**
+
+**📍 https://github.com/boss-defender/Smart-Fine-Tune**
+
+**⚡ Powered by [unslothai/unsloth](https://github.com/unslothai/unsloth).**
+
 # ⚡ Unsloth Auto-Trainer: Interruption-Proof LLM Fine-Tuning Pipeline
 
 **Run-and-forget fine-tuning for Google Colab.** Automatically handles GPU disconnections, saves training state directly to Google Drive with SHA-256 experiment isolation, and exports clean 16-bit merged base weights ready for local GGUF conversion or Hugging Face uploads! 🚀
