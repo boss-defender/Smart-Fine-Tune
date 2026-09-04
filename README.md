@@ -16,6 +16,20 @@
 
 ---
 
+#🤔 Beginner ? Don't worry .
+
+**🌐 Just give Model path and Dataset path from hugging face.**
+
+**⚙️ Set max sample minimum 1000. But no input in max sample will lead this code to use whole dataset.**
+
+**💡 Keep other box empty as it is.**
+
+**🛠️ If you have technical knowledge , fill up those box carefully**
+
+**✨ Click run & see the magic.**
+
+---
+
 ## 🌟 Why Use This Pipeline?
 
 Fine-tuning LLMs on Google Colab free or T4 runtimes often leads to lost progress from quota limits, session timeouts, and random disconnections. This pipeline solves every single headache:
