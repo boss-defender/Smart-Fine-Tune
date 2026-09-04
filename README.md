@@ -16,7 +16,7 @@
 
 ---
 
-#🤔 Beginner ? Don't worry .
+# 🤔 Beginner ? Don't worry .
 
 **🌐 Just give Model path and Dataset path from hugging face.**
 
