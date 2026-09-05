@@ -18,7 +18,7 @@
 
 # 🤔 Beginner ? Don't worry .
 
-**🌐 Just give Model path and Dataset path from hugging face.**
+**🌐 Just give Model path and Dataset path from hugging face or Google Drive.**
 
 **⚙️ Set max sample minimum 1000. But no input in max sample will lead this code to use whole dataset.**
 
