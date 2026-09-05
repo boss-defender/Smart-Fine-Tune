@@ -30,6 +30,18 @@
 
 ---
 
+# 💡 Want to train on your own dataset?
+
+👉 First, share this Colab notebook by selecting **`Share → General access → Anyone with the link → Copy link`**. Then upload **your dataset and this Colab notebook link** to an AI assistant such as **ChatGPT, Gemini, or Claude etc**.
+
+Tell the AI:
+
+> **“Please convert and format my custom dataset so that it is fully compatible with the dataset format expected by Cell 1 of this Colab notebook and ready for training.”**
+
+✅ The AI can then restructure your dataset into the correct format for this fine-tuning system.
+
+---
+
 ## 🌟 Why Use This Pipeline?
 
 Fine-tuning LLMs on Google Colab free or T4 runtimes often leads to lost progress from quota limits, session timeouts, and random disconnections. This pipeline solves every single headache:
