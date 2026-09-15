@@ -1,4 +1,4 @@
-# FineTune
+# Smart Fine-Tune
 *It will free you from hassle while fine tuning ai model.*
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boss-defender/FineTune/blob/main/SmartFineTuner.ipynb)
